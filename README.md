@@ -43,10 +43,10 @@ Group Name : Numberone
 * Dimensionality Reduction คืออะไร
 
 ### 4. Chapter 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%206.pdf) ประกอบด้วย 2 ส่วน ดังนี้
-* 1. Besic Concepts 
+1 Besic Concepts 
  * Plot graph of Itemsets
  * การแก้ไขคอลัมน์ข้อมูล
  * Frequence Itemsets to Association Rule
-* 2. Efficient Pattern Mining Methods
+2 Efficient Pattern Mining Methods
  * Apriori
  * Support
