@@ -44,9 +44,9 @@ Group Name : Numberone
 
 ### 4. Chapter 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%206.pdf) ประกอบด้วย 2 ส่วน ดังนี้
 * Besic Concepts 
- * Plot graph of Itemsets
- * การแก้ไขคอลัมน์ข้อมูล
- * Frequence Itemsets to Association Rule
+  * Plot graph of Itemsets
+  * การแก้ไขคอลัมน์ข้อมูล
+  * Frequence Itemsets to Association Rule
 * Efficient Pattern Mining Methods
- * Apriori
- * Support
+  * Apriori
+  * Support
