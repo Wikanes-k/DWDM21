@@ -50,3 +50,40 @@ Group Name : Numberone
 * 2.Efficient Pattern Mining Methods
   * Apriori
   * Support
+
+### 5. Chapter 8 Classification:Basic Concepts ประกอบด้วย 3 ส่วน ดังนี้
+* [1 Classification: Basic Concepts](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%208.1.pdf)
+  * การสร้างโมเดลแบบมีผู้สอน/การสร้างโมเดลแบบไม่มีผู้สอน
+  * Classification (การสร้าง model เพื่อนำ feature มาใช้ในการทำนายคำตอบ)
+  * Decision Tree Induction (การทำนายโดยใช้วิธีต้นไม้ตัดสินใจ)
+  * ตัวอย่างการคำนวณ
+* [2 Lecture Decision Tree](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%208.2.pdf)
+  * Decision Tree Induction: Algorithm
+  * Overfitting and Tree Prunning (ตัดแต่งกิ่งต้นไม้)
+* [3  Bayes Classification](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%208.3.pdf)
+  * วิธีการ Training Datasets ของ Naïve Bayes Classifier
+  * ตัวอย่างการคำนวณ
+  * Chapter 9 Lazy Learner:Instance-Based Mathods
+  * Lazy Learner คืออะไร?
+  * วิธีการหาค่า K-NN (K-nearest neighbors)
+
+### 6. Chapter 9 [Neural Network](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%209.pdf)
+* องค์ประกอบของ Perceptron
+* ตัวอย่าง และผลการเรียนฟังก์ชัน AND และ XOR ด้วยกฏ Perceptron
+* การหาค่า Procision, Recall and F-measures
+* ตัวอย่างการคำนวณ
+
+### 7. Chapter 10 [Cluster Analysis:Basic Concepts and Methods](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%2010.pdf)
+* K-Means คืออะไร
+* ตัวอย่างการคำนวณหาค่า K-Means
+* Dendrogram (การทำ Clustering แบบลำดับชั้น)
+* วิธีการวัดแบ่งออกเป็น External & Internal
+* Internal Measures: BetaCV Measure (กรณีที่ไม่รู้คำตอบ)
+
+## ปฏิบัติ (Google Colab)
+
+
+
+
+
+
