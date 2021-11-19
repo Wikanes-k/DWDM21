@@ -21,13 +21,13 @@ Group Name : Numberone
 
 ## ทฤษฎี (เนื้อหา)
 
-### Chapter 1 [Introduction](https://github.com/Wikanes-k/DWDM21/blob/main/HW1.pdf)
+### 1. Chapter 1 [Introduction](https://github.com/Wikanes-k/DWDM21/blob/main/HW1.pdf)
 * นิยามของ Data Mining
 * ทำไมจึงต้องมี Data Mining
 * เทคนิคในการทำ Data Mining
 * ตัวอย่างของข้อมูล
 
-### Chapter 2 Getting to Know Your Data ประกอบด้วย 3 ส่วน ดังนี้
+### 2. Chapter 2 Getting to Know Your Data ประกอบด้วย 3 ส่วน ดังนี้
 * [1 Data Objects and Attribute Types](https://github.com/Wikanes-k/DWDM21/blob/main/HW2.1.pdf)  
   * คุณสมบัติ, ตัวอย่างข้อมูล, ขนาดของข้อมูล, ชนิดของข้อมูล
 * [2 Measuring Data Similarity and Dissimilarity](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%202.2.pdf)
@@ -36,7 +36,17 @@ Group Name : Numberone
 * [3 Binary Distance](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%202.3.pdf)
   * การวัดความใกล้เคียงสำหรับ Binary Attributes, ตัวอย่างความแตกต่างระหว่างตัวแปร Binary Variables, การวัดความแตกต่างสำหรับ Categorical Attributes,, สูตรการคำนวณ Symmetric binary และ Asymmetric binary
 
+### 3. Chapter 3 Data [Preprocessing](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter3%20Data%20Preprocessing%20.pdf)
+* Data Cleaning คืออะไร
+* Data Integration คืออะไร
+* Data Reduction and Tranformation คืออะไร
+* Dimensionality Reduction คืออะไร
 
-
-
-
+### 4. Chapter 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter%206.pdf) ประกอบด้วย 2 ส่วน ดังนี้
+* 1. Besic Concepts 
+ * Plot graph of Itemsets
+ * การแก้ไขคอลัมน์ข้อมูล
+ * Frequence Itemsets to Association Rule
+* 2. Efficient Pattern Mining Methods
+ * Apriori
+ * Support
