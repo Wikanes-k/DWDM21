@@ -82,8 +82,45 @@ Group Name : Numberone
 
 ## ปฏิบัติ (Google Colab)
 
+### 1. Chapter 2 
+* [Basic Python](https://github.com/Wikanes-k/DWDM21/blob/main/Data101(Chapter2).ipynb)
+  * Basic Python
+    * variables
+  * Casting
+    * int() float() str()
+  * Data Structure
+    * list()
+  * Loop
+  * Condition
+    * เงื่อนไข if statement
+  * Function
+* [Data Exploration](https://github.com/Wikanes-k/DWDM21/blob/main/Data102(Chapter2).ipynb)
+  * Besic Data
+  * การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+  * Boxplot
+  * Time Series Plot
+* [Data Visualization](https://github.com/Wikanes-k/DWDM21/blob/main/Data_Visualization.ipynb)
+  * Scatter plot
+  * Plot
+  * Bar chart
+    * Grouped Barchart
+    * Stacked Barchart
+  * Histogram
+* [Distance_Numpy](https://github.com/Wikanes-k/DWDM21/blob/main/Distance_Numpy.ipynb)
+  * Numpy Array
+    * สร้าง numpy array (matrix)
+    * สร้าง matrix เริ่มต้น (zeros, ones)
+    * สร้าง matrix random
+    * matrix properties
+    * Useful functions
+    * วนลูปเอง
+    * summation
+    * Distance Matrix
+    * Euclidean Distance (L2-norm)
+    * Distance function
+    * Manhattan Distance (L1-norm)
+    * Distance of Binary Value
 
-
-
+### 2. Chapter 3 [Data Preprocessing](https://github.com/Wikanes-k/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb)
 
 
