@@ -82,7 +82,7 @@ Group Name : Numberone
 
 ## ปฏิบัติ (Google Colab)
 
-### 1. Chapter 2 
+### 1. Chapter 2 ประกอบด้วย 4 ส่วน ดังนี้
 * [Basic Python](https://github.com/Wikanes-k/DWDM21/blob/main/Data101(Chapter2).ipynb)
   * Basic Python
     * variables
@@ -123,4 +123,91 @@ Group Name : Numberone
 
 ### 2. Chapter 3 [Data Preprocessing](https://github.com/Wikanes-k/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb)
 
+* Meta Data (Data ที่ใช้อธิบาย Data)
+  * การชี้ข้อมูลในตาราง
+    * ชี้แบบธรรมดาใช้ [ชื่อคอลัมน์][index]
+    * ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
+  * Missing Value
+    * Handle Missing Value 1 (ลบค่า Missing)
+    * Handle Missing Value 1.5 (ลบค่า Missing เฉพาะใน column ที่เราสนใจ)
+    * Handle Missing Value 2
+    * Handle Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+    * Handle Missing Value 4 (แทนด้วยค่ากลาง)
+    * Handling Missing Value 5 (แทนด้วย column ใกล้เคียง)
+  * Select data by values [Pandas]
+    * ใช้ and(&) และ or (|) ในการรวม list ของ boolean
+    * การต่อตารางแนวแกน Y [PD]
+    * การเรียงข้อมูล[PD]
+    * Outlier
+  * การรวม 2 ตารางโดยใช้ .merge()
+  * Group by (pandas)
+  * [PD] save ตารางเอาไปใช้ที่อื่น
+  * [PD]การสร้างตาราง
 
+### 3. Chapter 5 [Association Rules](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+* การลบ records ที่ถูก cancel ออก
+* การเตรียม Data สำหรับ (Fequence Pattern) Association Rule
+* Apriori
+* หา K-Itemsets
+
+### 4. Chapter 6 Classification ประกอบด้วย 3 ส่วน ดังนี้
+* [1. Classification Decision Tree](https://github.com/Wikanes-k/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+  * Load data
+  * Train Model
+  * Plot tree
+  * Evaluation
+  * Advanced Tree
+  * Test
+* [2 Classification k-Nearest Neighbor & Neural Networks](https://github.com/Wikanes-k/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+  * Load data
+  * Split data
+  * Train Model
+    * Import
+    * KNN1
+    * KNN2
+    * KNN3 
+  * Retrain & Evaluation
+  * Neural Network
+    * mport
+    * Define
+    * Train-Test
+    * ANN2
+    * ANN3
+* [3 Classification Evaluation](https://github.com/Wikanes-k/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+  * Load data
+  * การแบ่ง data
+  * สร้าง Model ทำนาย
+    * Import
+    * Define
+    * Train
+    * Evaluation
+
+### 5. Chapter 7 [Clustering](https://github.com/Wikanes-k/DWDM21/blob/main/Chap8_Clustering.ipynb)
+* K-Means
+  * Generate data
+  * Explore data
+  * Clustering
+    * import
+    * Define
+    * Fit-Predict
+    * 3 Cluster
+    * 4 Cluster
+    * 5 Cluster
+  * Example Application(Color Quantization)
+    * นับจำนวนสี
+    * จัดกลุ่มสี
+    * ใช้ Centroid เป็นตัวแทนสี
+* Hierachicla Clustering (เว็บไซท์เพิ่มเติม)
+* Clustering Evaluation (เว็บไซท์เพิ่มเติม)
+
+## Mid Term 
+* [MiniExam](https://github.com/Wikanes-k/DWDM21/blob/main/MiniExam.ipynb)
+
+## Project
+* [Project1](https://github.com/Wikanes-k/DWDM21/blob/main/Project1.ipynb)
+* [Project Final](https://github.com/Wikanes-k/DWDM21/blob/main/Project_Final.ipynb)
+* [ไฟล์นำเสนอ Group Project](https://github.com/Wikanes-k/DWDM21/blob/main/Project_NUMBERONE.pdf)
+
+## [เพิ่มเติม](https://docs.google.com/document/d/1gxgPQU0sq0pV34_oa4qslCBHmpNDDQ9nwIbFotZvpX8/edit?usp=sharing)
+
+## FINISH 
